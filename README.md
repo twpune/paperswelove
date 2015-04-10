@@ -1,6 +1,4 @@
-# Geek Night Pune
-
-an open forum for geeks to connect, discuss &amp; learn latest ideas, technologies and trends in software development
+# Papers we Love Pune
 
 # Development
 
